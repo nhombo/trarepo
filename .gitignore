@@ -2,3 +2,6 @@ credentials.txt
 .DS_Store
 custom.modernizr.js
 foundation.min.js
+node_modules
+node-test
+package-lock.json
